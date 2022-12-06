@@ -63,7 +63,7 @@ hamburger.addEventListener("click", function () {
 ## Author
 
 - Website - [Oladipo Munirat](https://www.your-site.com)
-- Frontend Mentor - [@oladipomunirat](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Muneerat](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@neerat](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
